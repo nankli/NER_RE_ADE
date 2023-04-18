@@ -1,5 +1,6 @@
 # ucb_mids_w266_project
-UCB NLP with Deep Learning (W266) final project
+UCB NLP with Deep Learning (W266) Final Project
+
 Authors: Diana Nguyen and Nan K. Li
 
 Introduction
